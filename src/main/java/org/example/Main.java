@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(isPalindrome(1221));
         System.out.println(isPerfectNumber(28));
+
+
     }
 
     public static boolean isPalindrome(int number) {
